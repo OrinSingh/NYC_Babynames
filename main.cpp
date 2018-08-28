@@ -19,7 +19,7 @@ int main(int argc, char *argv[])
 	
 	Interface.loadFile(argc, argv);
 	Interface.userPrompt();
-    Interface.exitFile();
+    	Interface.exitFile();
 
 	return 0;
 }
