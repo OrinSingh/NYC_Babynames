@@ -8,8 +8,10 @@ Dataset was last updated on August 17, 2018, according to the site.
 As of current time(August 29, 2018), this dataset includes years 2011-2016.
 Thus the current version of the program is meant to work with years 2011-2016.
 
-Use the included [makefile](https://github.com/OrinSingh/NYC_Babynames/blob/master/Makefile) to compile the program in terminal by typing in: *make*
-**OR**
-in the terminal type in: *g++ main.cpp babyname.cpp babycollection.cpp command.cpp -o output*
+**There are two ways to compile the program:**
+1. Use the included [makefile](https://github.com/OrinSingh/NYC_Babynames/blob/master/Makefile) to compile the program in terminal by typing in: *make*
+2. In the terminal type in: *g++ main.cpp babyname.cpp babycollection.cpp command.cpp -o output*
+
+To run the program in the current directory, in the terminal type in: *./output*
 
 **Note:** *allStats.csv, sort_byGender.csv and search_byEthnicity(Hispanic).csv* are all example files.
