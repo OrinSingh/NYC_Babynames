@@ -10,4 +10,4 @@ Use the included makefile to compile the program in terminal by typing in: make
 OR
 in the terminal type in: g++ main.cpp babyname.cpp babycollection.cpp command.cpp -o output
 
-Note: allStats.csv, sortbyGender.csv and searchbyEthnicity(Asian&PacificIslander).csv are all example files.
+Note: allStats.csv, sort_byGender.csv and search_byEthnicity(Asian&PacificIslander).csv are all example files.
